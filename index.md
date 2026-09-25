@@ -14,3 +14,4 @@ layout: default
 Быков Петр Евгеньевич
 - email: petabykov14@gmail.com
 - telegram: t.me/peter_phys
+- Страничка из домашнего задания: [Быков Петр](https://casterfp.github.io/git-lab/)
